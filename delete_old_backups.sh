@@ -2,7 +2,7 @@
 #!/bin/bash
 set -e
 
-backup_base_dir="/app_data/soa_backup/backup_server/online_backup"
+backup_base_dir="/app_data/soa_backup/backup_server/offline_backup"
 backup_dir=$1
 
 
